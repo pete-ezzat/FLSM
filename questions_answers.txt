@@ -1,0 +1,90 @@
+Question1: 192.168.1.0/27
+-------------------------
+
+Class: C
+Subnet mask: 255.255.255.224
+
+Network 1:
+----------
+Network address: 192.168.1.0
+First usable IP: 192.168.1.1
+Last usable IP : 192.168.1.30
+Broadcast IP   : 192.168.1.31
+
+---
+
+Network 2:
+----------
+Network address: 192.168.1.32
+First usable IP: 192.168.1.33
+Last usable IP : 192.168.1.62
+Broadcast IP   : 192.168.1.63
+
+
+
+
+
+
+
+
+Question2: 172.16.0.0/18
+------------------------
+
+Class: B
+Subnet mask: 255.255.192.0
+
+Network 1:
+----------
+Network address: 172.16.0.0
+First usable IP: 172.16.0.1
+Last usable IP : 172.16.63.254
+Broadcast IP   : 172.16.63.255
+
+---
+
+Network 2:
+----------
+Network address: 172.16.64.0
+First usable IP: 172.16.64.1
+Last usable IP : 172.16.127.254
+Broadcast IP   : 172.16.127.255
+
+
+
+
+
+
+
+
+Question3: 10.0.0.0/9
+---------------------
+
+Class: A
+Subnet mask: 255.128.0.0
+
+Network 1:
+----------
+Network address: 10.0.0.0
+First usable IP: 10.0.0.1
+Last usable IP : 10.127.255.254
+Broadcast IP   : 10.127.255.255
+
+---
+
+Network 2:
+----------
+Network address: 10.128.0.0
+First usable IP: 10.128.0.1
+Last usable IP : 10.255.255.254
+Broadcast IP   : 10.255.255.255
+
+
+
+
+
+
+
+
+
+
+
